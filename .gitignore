@@ -1,0 +1,11 @@
+# Go
+/tmp/
+*.exe
+*.out
+
+# Air
+.air.toml.tmp
+
+# Editor
+.vscode/
+
